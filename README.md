@@ -42,3 +42,4 @@ android-settings/
 ├── settings.gradle.kts
 └── gradle.properties
 ```
+<img width="630" height="828" alt="image" src="https://github.com/user-attachments/assets/6762f0b4-f888-4799-936c-e2bc2d558c7d" />
